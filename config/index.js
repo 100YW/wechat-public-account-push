@@ -96,7 +96,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2018-01-10' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2020-08-07' 
+        { keyword: 'marry_day', date: '2020-08-07'}, 
       ],
       // 课程表相关配置
       // 如果courseSchedule不存在或者为空（null）则认为没有课程
